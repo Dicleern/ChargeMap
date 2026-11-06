@@ -1,0 +1,28 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Raw and processed datasets
+data/raw/*
+data/interim/*
+data/processed/*
+
+# Frontend dependencies and build outputs
+node_modules/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
